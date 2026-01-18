@@ -1,4 +1,3 @@
-# real-time-web-traffic-anomaly-dashboard-
 # Real-Time Web Traffic Anomaly Monitoring Dashboard
 
 ## 📌 Overview
